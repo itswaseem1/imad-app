@@ -16,6 +16,10 @@ body {
     font-weight: bold;
 }
 
+.h3 {
+    color: green;
+}
+
 .img-medium {
     height: 200px;
 }
